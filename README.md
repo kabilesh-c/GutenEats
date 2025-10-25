@@ -84,4 +84,4 @@ You can connect a custom domain to your deployed project through your hosting pr
 
 ## Author
 
-Created with ❤️ by [Kabilesh]
+Created with ❤️ by Kabilesh
